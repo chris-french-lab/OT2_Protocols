@@ -1,7 +1,7 @@
 """
-@author Opentrons
-@date April 27th, 2018
-@version 1.3
+@author MillacuraFA
+@date January 8th, 2019
+@version 1.0
 """
 from opentrons import labware, instruments
 

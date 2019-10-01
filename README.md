@@ -7,6 +7,7 @@ Protocols created by:
 | ------------- | ------------- |
 | Chris_French_Logo.ot2.py  | Felipe A. Millacura  |
 | Chris_French_Logo_yellow.ot2.py  | Felipe A. Millacura  |
+| CellFreeSensors.py  | Felipe A. Millacura  |
 
 
 

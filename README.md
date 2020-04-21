@@ -31,7 +31,7 @@ For further information on protocol creation please check Opentrons API document
 
 All prerequisites are pre installed in the machine's internal server and you should load them as follows
 
-```
+```python
 from opentrons import labware, instruments
 ```
 

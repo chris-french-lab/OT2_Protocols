@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* to Felipe and Trevor who made all initial adjustments to the machine.
+* to [Felipe](https://github.com/millacurafa) and [Trevor](https://github.com/tyhho) who made all initial adjustments to the machine.
 
 

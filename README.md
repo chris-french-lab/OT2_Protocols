@@ -22,6 +22,19 @@ buy now
 # Protocols
 Protocols used and created in the French Lab for automation.
 
+
+## Getting Started
+
+For further information on protocol creation please check Opentrons API documentation at https://docs.opentrons.com/v2/
+
+### Prerequisites
+
+All prerequisites are pre installed in the machine's internal server and you should load them as follows
+
+```
+from opentrons import labware, instruments
+```
+
 ## Authors
 
 | File  | Creator |

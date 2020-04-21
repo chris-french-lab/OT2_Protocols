@@ -10,11 +10,11 @@ Precision engineered so you can reproduce your results quickly and accurately, e
 
 Expand your robot’s capabilities with swappable on-deck modules.
 
-Thermocycler Module: Fully automate thermocycler throughput quickly and easily
+*Thermocycler Module*: Fully automate thermocycler throughput quickly and easily
 
-Magnetic Module: Automate magbead-based protocols
+*Magnetic Module*: Automate magbead-based protocols
 
-Temperature Module: Keep reagents at a constant temperature from 4-95°C
+*Temperature Module*: Keep reagents at a constant temperature from 4-95°C
 buy now
 
 ![OT-2 working deck](https://opentrons.com/static/open_flexible-7eb0228a27dfc25d2315b4d4512e0bab.jpg)
